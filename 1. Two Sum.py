@@ -1,5 +1,7 @@
 # Title: Two Sum
 # URL: https://leetcode.com/problems/two-sum/
+
+#Used Techniques: HASH TABLE
 class Solution(object):
     def twoSum(self, nums, target):
       

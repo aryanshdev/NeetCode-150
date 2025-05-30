@@ -1,6 +1,7 @@
 #Title : Letter Combinations of a Phone Number
 #Problem : https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 
+# Used Techniques : HASH TABLE, BACKTRACKING
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
         digitMap = {
